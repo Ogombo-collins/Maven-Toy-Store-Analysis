@@ -16,6 +16,6 @@ The questions highlighted above are inked to historical performance of Maven Toy
 
 The dataset is provided #MavenAnalytics is perfect for applying your data exploration, analysis, and visualization skills. It simulates real world business scenarios and challenges.
 
-P.S I never got to finish the analysis. Somewhere in between, the environemnet i was using; Google Colab started misbehaving. I decided to willingly give up with the analysis. Not a good trait, but curenly working on using better environemnets, and yes, not giving up.
+P.S I never got to finish the analysis. Somewhere in between, the environment i was using; Google Colab started misbehaving. I decided to willingly give up with the analysis. Not a good trait, but curenly working on using better environments, and yes, not giving up.
 
 #If you find inspiration with the layot i have used, feel free to copy it. It is the least i can offer. 
