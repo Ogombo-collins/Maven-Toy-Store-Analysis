@@ -12,7 +12,7 @@ The key areas of concern for the business entail understanding key insights rela
 * Revenue generated from each store
 * Revenue segmentation by product and product category
 
-The questions highlighted above are inked to historical performance of Maven Toy Sales LLC.
+The questions highlighted above are linked to historical performance of Maven Toy Sales LLC.
 
 The dataset is provided #MavenAnalytics is perfect for applying your data exploration, analysis, and visualization skills. It simulates real world business scenarios and challenges.
 
