@@ -16,6 +16,6 @@ The questions highlighted above are linked to historical performance of Maven To
 
 The dataset is provided #MavenAnalytics is perfect for applying your data exploration, analysis, and visualization skills. It simulates real world business scenarios and challenges.
 
-P.S I never got to finish the analysis. Somewhere in between, the environment i was using; Google Colab started misbehaving. I decided to willingly give up with the analysis. Not a good trait, but curenly working on using better environments, and yes, not giving up.
+P.S I never got to finish the analysis. Somewhere in between, the environment i was using; Google Colab started misbehaving. I decided to willingly give up with the analysis. Not a good trait, but curently working on using better environments, and yes, not giving up.
 
-#If you find inspiration with the layot i have used, feel free to copy it. It is the least i can offer. 
+#If you find inspiration with the layout i have used, feel free to copy it. It is the least i can offer. 
